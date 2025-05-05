@@ -9,7 +9,7 @@ Cybersecurity is an ever-evolving field, and I enjoy diving into hands-on projec
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MaryAnnaMoore07/Threat-Hunting-Scenario-Tor-)**
 
 <hr/>
 
