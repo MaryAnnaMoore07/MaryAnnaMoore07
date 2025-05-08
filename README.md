@@ -5,6 +5,7 @@ Cybersecurity is an ever-evolving field, and I enjoy diving into hands-on projec
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/MaryAnnaMoore07/Vulnerability-Management-Program)**
+- **[10 Programmatic Vulnerability Remediations (PowerShell & Bash)](https://github.com/MaryAnnaMoore07/Remediation-Automation-PowerShell-and-Bash/tree/main/automation)**
 
 ## 🚨 Threat Hunting and Security Operations
 
