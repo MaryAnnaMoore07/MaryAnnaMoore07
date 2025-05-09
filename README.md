@@ -10,6 +10,7 @@ Cybersecurity is an ever-evolving field, and I enjoy diving into hands-on projec
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MaryAnnaMoore07/Threat-Hunting-Scenario-Tor-)**
+- **[Threat Hunting Incident: Detection of Public IP Address](https://github.com/MaryAnnaMoore07/Detection-of-Public-IP-Address)**
 
 <hr/>
 
