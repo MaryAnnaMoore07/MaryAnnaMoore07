@@ -13,6 +13,7 @@ Cybersecurity is an ever-evolving field, and I enjoy diving into hands-on projec
 - **[Threat Hunting Incident: Detection of Public IP Address](https://github.com/MaryAnnaMoore07/Detection-of-Public-IP-Address)**
 - **[Threat Hunting Incident: Sudden Network Slowdowns](https://github.com/MaryAnnaMoore07/Sudden_Network_Slowdown)**
 - **[Threat Hunting Incident: Suspected Data Exfiltration](https://github.com/MaryAnnaMoore07/Suspected_Data_Exfiltration)**
+- **[Threat Hunting Incident: Deep Access The Advesary](https://github.com/MaryAnnaMoore07/Threat-Hunt-Deep-Access-The-Adversary)**
 
 <hr/>
 
