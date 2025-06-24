@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/maryanna-moore/">MaryAnna Moore</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/maryanna-moore/">MaryAnna Moore</a>'s Project Portfolio 🔐
 
 Cybersecurity is a constantly evolving landscape, and I’m passionate about applying hands-on skills to address real-world challenges. From identifying vulnerabilities to strengthening threat detection and response, I’m always exploring ways to improve security operations. I invite you to take a look at some of my recent projects.
 
