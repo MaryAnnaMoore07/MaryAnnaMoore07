@@ -10,11 +10,11 @@ Cybersecurity is an ever-evolving field, and I enjoy diving into hands-on projec
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MaryAnnaMoore07/Threat-Hunting-Scenario-Tor-)**
-- **[Threat Hunting Incident: Detection of Public IP Address](https://github.com/MaryAnnaMoore07/Detection-of-Public-IP-Address)**
-- **[Threat Hunting Incident: Sudden Network Slowdowns](https://github.com/MaryAnnaMoore07/Sudden_Network_Slowdown)**
-- **[Threat Hunting Incident: Suspected Data Exfiltration](https://github.com/MaryAnnaMoore07/Suspected_Data_Exfiltration)**
+- **[Threat Hunting Incident: IP Address Detection](https://github.com/MaryAnnaMoore07/Detection-of-Public-IP-Address)**
+- **[Threat Hunting Incident: Network Slowdown](https://github.com/MaryAnnaMoore07/Sudden_Network_Slowdown)**
+- **[Threat Hunting Incident: Exfiltrated Data](https://github.com/MaryAnnaMoore07/Suspected_Data_Exfiltration)**
 - **[Threat Hunting Incident: Deep Access The Adversary](https://github.com/MaryAnnaMoore07/Threat-Hunt-Deep-Access-The-Adversary)**
-- **[Threat Hunting Incident: New Zero Day](https://github.com/MaryAnnaMoore07/New-Zero-Day)**
+- **[Threat Hunting Incident: Zero Day](https://github.com/MaryAnnaMoore07/New-Zero-Day)**
 - **[Threat Hunting Incident: The Great Heisman Heist](https://github.com/MaryAnnaMoore07/The-Great-Admin-Heist)**
 
 <hr/>
