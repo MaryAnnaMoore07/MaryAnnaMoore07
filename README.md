@@ -14,7 +14,7 @@ Cybersecurity is an ever-evolving field, and I enjoy diving into hands-on projec
 - **[Threat Hunting Incident: Network Slowdown](https://github.com/MaryAnnaMoore07/Sudden_Network_Slowdown)**
 - **[Threat Hunting Incident: Exfiltrated Data](https://github.com/MaryAnnaMoore07/Suspected_Data_Exfiltration)**
 - **[Threat Hunting Incident: Deep Access The Adversary](https://github.com/MaryAnnaMoore07/Threat-Hunt-Deep-Access-The-Adversary)**
-- **[Threat Hunting Incident: Zero Day](https://github.com/MaryAnnaMoore07/New-Zero-Day)**
+- **[Threat Hunting Incident: Zero Day Ransomware PwnCrypt](https://github.com/MaryAnnaMoore07/New-Zero-Day)**
 - **[Threat Hunting Incident: The Great Heisman Heist](https://github.com/MaryAnnaMoore07/The-Great-Admin-Heist)**
 
 <hr/>
