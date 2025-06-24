@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/maryanna-moore/">MaryAnna Moore</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Cybersecurity is an ever-evolving field, and I enjoy diving into hands-on projects that tackle real-world challenges. Whether it’s identifying vulnerabilities or improving threat detection, I’m always looking for ways to enhance security operations. Take a look at my work—I’d love to share what I’ve been working on!
+Cybersecurity is a constantly evolving landscape, and I’m passionate about applying hands-on skills to address real-world challenges. From identifying vulnerabilities to strengthening threat detection and response, I’m always exploring ways to improve security operations. I invite you to take a look at some of my recent projects.
 
 ## ⚠️ Vulnerability Management Projects
 
