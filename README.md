@@ -11,6 +11,7 @@ Cybersecurity is a constantly evolving landscape, and I’m passionate about app
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MaryAnnaMoore07/Threat-Hunting-Scenario-Tor-)**
 - **[Threat Hunting Incident: IP Address Detection](https://github.com/MaryAnnaMoore07/Detection-of-Public-IP-Address)**
+- **[Incident Response: Remote Code Execution](https://github.com/MaryAnnaMoore07/Remote-Code-Execution-Detection)**
 - **[Threat Hunting Incident: Network Slowdown](https://github.com/MaryAnnaMoore07/Sudden_Network_Slowdown)**
 - **[Threat Hunting Incident: Exfiltrated Data](https://github.com/MaryAnnaMoore07/Suspected_Data_Exfiltration)**
 - **[Threat Hunting Incident: Deep Access The Adversary](https://github.com/MaryAnnaMoore07/Threat-Hunt-Deep-Access-The-Adversary)**
