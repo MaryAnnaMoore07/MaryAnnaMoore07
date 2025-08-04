@@ -32,7 +32,7 @@ This script takes no parameters.
 PS C:\> .\WN10-CC-000150.ps1
 
 Runs the script to create or update the registry value as described.
-
+#>
 
 # Must be run as Administrator
 
